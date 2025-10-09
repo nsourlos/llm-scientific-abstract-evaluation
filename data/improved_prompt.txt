@@ -1,0 +1,34 @@
+Write a scientific abstract for the following research article. 
+
+REQUIREMENTS:
+1. Structure: Follow the standard scientific abstract format with these components:
+   - Background/Context (1-2 sentences): Why is this research important?
+   - Objective/Purpose (1 sentence): What is the main goal?
+   - Methods (1-2 sentences): How was the study conducted?
+   - Results (2-3 sentences): What were the key findings?
+   - Conclusion (1-2 sentences): What do the findings mean?
+
+2. Style:
+   - Use formal, scientific language
+   - Be concise and precise
+   - Use past tense for methods and results
+   - Use present tense for conclusions and implications
+   - Avoid promotional or exaggerated language
+
+3. Content:
+   - Only include information explicitly stated in the article
+   - Focus on the most significant findings and contributions
+   - Include specific data points and metrics when available
+   - Do not add interpretations beyond what the article states
+
+4. Length: Aim for 150-250 words (typical abstract length)
+
+5. Accuracy:
+   - Do NOT hallucinate or invent information
+   - Do NOT include speculative statements
+   - Do NOT over-claim the significance of findings
+
+Article text:
+{full_text}
+
+Write the abstract below:
