@@ -221,7 +221,7 @@ python merge_reports.py
 
 ---
 
-### Task 4: Advanced Evaluation (Bonus)
+### Task 4: Advanced Evaluation
 
 #### Part A: LLM-as-Judge (DeepEval)
 **Purpose:** Scale qualitative assessment using LLM judges
@@ -344,14 +344,6 @@ Contributions are welcome! Areas for improvement:
 
 Please open an issue or submit a pull request.
 
-
----
-
-## 📧 Contact
-
-For questions, suggestions, or collaboration:
-- **Email:** thomas.vandongen@springernature.com
-- **Issues:** [GitHub Issues](https://github.com/yourusername/llm-scientific-abstract-evaluation/issues)
 
 ---
 
